@@ -1,3 +1,5 @@
+/*Pratik Chandane/* /*123B1F015/*
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -78,3 +80,32 @@ int main() {
 
     return 0;
 }
+
+/*output
+
+Orders before sorting:
+Order 1 | Timestamp: 27308 | Value: 120.96
+Order 2 | Timestamp: 10506 | Value: 146.64
+Order 3 | Timestamp: 21293 | Value: 69.85
+Order 4 | Timestamp: 24706 | Value: 233.89
+Order 5 | Timestamp: 25010 | Value: 99.03
+Order 6 | Timestamp: 22968 | Value: 237.5
+Order 7 | Timestamp: 22676 | Value: 25.44
+Order 8 | Timestamp: 11388 | Value: 292.19
+Order 9 | Timestamp: 26050 | Value: 61
+Order 10 | Timestamp: 2762 | Value: 180.62
+
+Orders after sorting by timestamp:
+Order 11 | Timestamp: 1216 | Value: 100.74
+Order 18 | Timestamp: 1600 | Value: 262.44
+Order 10 | Timestamp: 2762 | Value: 180.62
+Order 14 | Timestamp: 3316 | Value: 2.57
+Order 19 | Timestamp: 7895 | Value: 225.77
+Order 2 | Timestamp: 10506 | Value: 146.64
+Order 8 | Timestamp: 11388 | Value: 292.19
+Order 17 | Timestamp: 14597 | Value: 115.69
+Order 13 | Timestamp: 16880 | Value: 230.26
+Order 15 | Timestamp: 17169 | Value: 45.88/*
+
+
+
